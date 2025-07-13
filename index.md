@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
 # Space-Land
